@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "opj",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "opj::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-opj-Debug-28aa3686f27ce63d4ba2.json",
+					"name" : "opj",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xianxingbiao1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xianxingbiao1-Debug-e7a4d3b6ac0fb1e81d63.json",
+					"name" : "xianxingbiao1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xianxingbiao2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xianxingbiao2-Debug-99f01331631f1cde182b.json",
+					"name" : "xianxingbiao2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "xianxingbiao3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-xianxingbiao3-Debug-50ce02b383d4ed37edee.json",
+					"name" : "xianxingbiao3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lu/workplace/CLionProjects/opj/cmake-build-debug",
+		"source" : "/home/lu/workplace/CLionProjects/opj"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

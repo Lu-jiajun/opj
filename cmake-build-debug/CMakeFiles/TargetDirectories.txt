@@ -1,0 +1,6 @@
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/opj.dir
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/xianxingbiao1.dir
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/xianxingbiao2.dir
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/xianxingbiao3.dir
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lu/workplace/CLionProjects/opj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
